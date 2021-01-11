@@ -6,4 +6,5 @@ BEGIN
 clrscr;
 writeln('Hello World');
 readln;
+writeln('Salut');
 END.
