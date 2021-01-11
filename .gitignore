@@ -1,0 +1,7 @@
+#fichier gitignore
+*.err
+*.bak
+*.out
+*.exe
+*.o
+
